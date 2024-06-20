@@ -77,7 +77,6 @@ const{onSent, recentPrompt, showResult, loading, resultData, setInput, input} = 
                     <p className="bottom-info">
                         NatData inc coorps
                     </p>
-                
             </div>
            </div>
         </div>
